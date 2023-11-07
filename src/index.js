@@ -32,7 +32,7 @@ class MyGame extends Phaser.Scene
 
         //camera adjustments
         this.cameras.main.setZoom(3);
-        this.cameras.main.startFollow(this.logo, true, 0.1, 0.1);
+        this.cameras.main.startFollow(this.logo, true, 0.2, 0.2);
 
         // this.tweens.add({
         //     targets: this.logo,
@@ -73,6 +73,7 @@ const config = {
     parent: 'phaser-example',
     width: 800,
     height: 600,
+    pixelArt: true,
     physics: {
         default: 'arcade',
         arcade: {
