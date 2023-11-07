@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "untitled.tmx": {
+            "scale": 1.9534374999999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 225.499920012798,
+                "y": 158.1826907694769
+            }
+        },
+        "untitled.tmx#tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Coding/Web Development/Websites/phaser3-project-template/src/assets",
+    "last.imagePath": "C:/Coding/Web Development/Websites/phaser3-project-template/src/assets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "untitled.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "untitled.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
