@@ -25,7 +25,7 @@ class MyGame extends Phaser.Scene
         const map = this.make.tilemap({key:'map',tilewidth:16,tileHeight: 16})
         const tileset = map.addTilesetImage('tiles','tileset',16,16)
         const layer = map.createLayer('top',tileset,0,0)
-        this.cursors = this.input.keyboard.createCursorKeys();
+        this.cursors = this.input.keyboard.createCursorKeys();    
 
         // this.add.image(400, 300, 'background');
         this.logo = this.physics.add.sprite(50, 50, 'logo').setScale(0.1,0.1)
